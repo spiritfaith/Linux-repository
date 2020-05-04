@@ -330,3 +330,13 @@ git pull origin master
 git remote add origion https://github.com/spiritfaith/Linux-repository.git
 git pull origin master
 sudo git pull origin master
+git pull origin master
+git init ku
+git add .
+git remote add origion https://github.com/spiritfaith/Linux-repository.git
+git pull ku master
+git add sort.c
+git commit -m "first commit code"
+git remote add origion https://github.com/spiritfaith/Linux-repository.git
+git pull ku master
+git pull origin master
