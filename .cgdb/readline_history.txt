@@ -1,0 +1,62 @@
+b mIN
+b main
+y
+help
+q
+q
+q
+b main
+run
+p a
+p b
+p c
+n
+p c
+s
+step
+n
+n
+n
+n
+b main
+q
+b main
+run
+n
+n
+n
+n
+n
+display a,b,c
+display a
+display b
+display c
+c
+next
+run
+c
+n
+run
+n
+next
+next
+next
+n
+b 3
+run
+n
+run
+y
+n
+n
+n
+n
+n
+r
+y
+c
+s
+r
+s
+q
+y
